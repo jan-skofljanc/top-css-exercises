@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+#numbertwo {
+    font-size: 36px;
+    color: blue;
+}
+
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#numberfour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
